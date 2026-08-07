@@ -1,0 +1,7 @@
+build/
+DerivedData/
+*.plugin/
+*.dSYM/
+*.xcuserstate
+xcuserdata/
+.DS_Store
