@@ -35,16 +35,16 @@ resource 'PiPL' (16000) {
             PF_PLUG_IN_SUBVERS
         },
         AE_Effect_Version {
-            524288
+            524297
         },
         AE_Effect_Info_Flags {
             0
         },
         AE_Effect_Global_OutFlags {
-            0x02000000
+            0x02000002
         },
         AE_Effect_Global_OutFlags_2 {
-            0x00000000
+            0x08000000
         },
         AE_Effect_Match_Name {
             "YakudoDouga"
@@ -53,7 +53,7 @@ resource 'PiPL' (16000) {
             0
         },
         AE_Effect_Support_URL {
-            "https://www.adobe.com"
+            "https://myuu.dev"
         }
     }
 };
